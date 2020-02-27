@@ -18,7 +18,7 @@
   all: initial;
   display: block;
   border-radius: 0 !important;
-  width: 360px;
+  width: 361px;
   height: 600px;
   overflow: auto;
 }
